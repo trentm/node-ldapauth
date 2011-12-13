@@ -22,4 +22,4 @@ A simple node.js lib to authenticate against an LDAP server.
 
 # `LdapAuth` Config Options
 
-[Use the source Luke](XXX)
+[Use the source Luke](https://github.com/trentm/node-ldapauth/blob/master/lib/ldapauth.js#L25-45)
