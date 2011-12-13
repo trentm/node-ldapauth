@@ -1,0 +1,19 @@
+{
+  "name": "ldapauth",
+  "version": "1.0.0",
+  "main": "./lib/ldapauth.js",
+  "description": "Authenticate against an LDAP server",
+  "author": "Trent Mick <trentm@gmail.com> (http://trentm.com)",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/trentm/node-ldapauth/raw/master/LICENSE"
+  },
+  "keywords": ["authenticate", "ldap"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trentm/node-ldapauth.git"
+  },
+  "dependencies": {
+    "bcrypt": "0.4"
+  }
+}
