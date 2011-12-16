@@ -32,6 +32,9 @@ MIT. See "LICENSE" file.
 
 # express/connect basicAuth example
 
+    var connect = require('connect');
+    var LdapAuth = require('ldapauth');
+
     // Config from a .json or .ini file or whatever.
     var config = {
       ldap: {
