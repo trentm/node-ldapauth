@@ -1,5 +1,10 @@
 # node-ldapauth Changelog
 
+## 2.0.1 (not yet released)
+
+(nothing yet)
+
+
 ## 2.0.0
 
 - Add `make check` for checking jsstyle.
