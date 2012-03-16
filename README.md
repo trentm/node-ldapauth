@@ -64,3 +64,16 @@ MIT. See "LICENSE" file.
         callback(err, user)
       });
     });
+
+
+# Development
+
+Check coding style before commit:
+
+    make check
+
+To cut a release (tagging, npm publish, etc., see
+<https://github.com/trentm/cutarelease> for details):
+
+    make cutarelease
+
