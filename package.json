@@ -1,6 +1,6 @@
 {
   "name": "ldapauth",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "main": "./lib/ldapauth.js",
   "description": "Authenticate against an LDAP server",
   "author": "Trent Mick <trentm@gmail.com> (http://trentm.com)",
@@ -14,7 +14,7 @@
     "url": "git://github.com/trentm/node-ldapauth.git"
   },
   "dependencies": {
-    "ldapjs": "0.3",
+    "ldapjs": "0.4",
     "bcrypt": "0.5",
     "lru-cache": "1.0.5"
   }

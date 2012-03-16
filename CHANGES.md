@@ -1,8 +1,8 @@
 # node-ldapauth Changelog
 
-## 2.0.1 (not yet released)
+## 2.1.0 (not yet released)
 
-(nothing yet)
+- Update to ldapjs 0.4 (from 0.3). Crossing fingers that this doesn't cause breakage.
 
 
 ## 2.0.0
