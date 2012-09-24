@@ -1,6 +1,6 @@
 # node-ldapauth Changelog
 
-## 2.2.0 (not yet released)
+## 2.2.0
 
 - Update to latest ldapjs (0.5.6) and other deps.
 
