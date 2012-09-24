@@ -38,7 +38,7 @@ MIT. See "LICENSE" file.
     // Config from a .json or .ini file or whatever.
     var config = {
       ldap: {
-        url: "ldaps://ldap.example.com:663",
+        url: "ldaps://ldap.example.com:636",
         adminDn: "uid=myadminusername,ou=users,o=example.com",
         adminPassword: "mypassword",
         searchBase: "ou=users,o=example.com",
@@ -55,7 +55,7 @@ MIT. See "LICENSE" file.
       //log4js: require('log4js'),
       cache: true
     });
-    
+
     var basicAuthMiddleware = connect.basicAuth(function (username, password, callback) {
       ldap.authenticate(username, password, function (err, user) {
         if (err) {
@@ -76,4 +76,3 @@ To cut a release (tagging, npm publish, etc., see
 <https://github.com/trentm/cutarelease> for details):
 
     make cutarelease
-

@@ -14,8 +14,8 @@
     "url": "git://github.com/trentm/node-ldapauth.git"
   },
   "dependencies": {
-    "ldapjs": "0.4",
-    "bcrypt": "0.5",
-    "lru-cache": "1.0.5"
+    "ldapjs": "0.5.6",
+    "bcrypt": "0.7.2",
+    "lru-cache": "2.0.4"
   }
 }
