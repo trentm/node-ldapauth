@@ -16,7 +16,6 @@ all:
 
 .PHONY: cutarelease
 cutarelease:
-	[[ ! -d tmp ]]   # No 'tmp/' allowed: https://github.com/isaacs/npm/issues/2144
 	./tools/cutarelease.py -p ldapauth -f package.json
 
 .PHONY: check-jsstyle
