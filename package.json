@@ -1,6 +1,6 @@
 {
   "name": "ldapauth",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "main": "./lib/ldapauth.js",
   "description": "Authenticate against an LDAP server",
   "author": "Trent Mick <trentm@gmail.com> (http://trentm.com)",
