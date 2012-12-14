@@ -1,6 +1,6 @@
 # node-ldapauth Changelog
 
-## 2.2.1 (not yet released)
+## 2.2.1
 
 - Fix a bug where ldapauth `authenticate()` would raise an example on an empty
   username.
