@@ -2,12 +2,15 @@
 
 ## 2.2.1 (not yet released)
 
-(nothing yet)
+- Fix a bug where ldapauth `authenticate()` would raise an example on an empty
+  username.
 
 
 ## 2.2.0
 
 - Update to latest ldapjs (0.5.6) and other deps.
+  Note: This makes ldapauth only work with node >=0.8 (because of internal dep
+  in ldapjs 0.5).
 
 
 ## 2.1.0
