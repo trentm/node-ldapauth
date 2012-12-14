@@ -1,5 +1,10 @@
 # node-ldapauth Changelog
 
+## 2.2.2 (not yet released)
+
+(nothing yet)
+
+
 ## 2.2.1
 
 - Fix a bug where ldapauth `authenticate()` would raise an example on an empty
