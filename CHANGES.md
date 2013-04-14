@@ -2,7 +2,7 @@
 
 ## 2.2.2 (not yet released)
 
-(nothing yet)
+- [issue #5] update to bcrypt 0.7.5 (0.7.3 fixes potential mem issues)
 
 
 ## 2.2.1

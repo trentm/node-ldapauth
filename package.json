@@ -16,7 +16,7 @@
   "engines": ["node >=0.8.0"],
   "dependencies": {
     "ldapjs": "0.5.6",
-    "bcrypt": "0.7.2",
+    "bcrypt": "0.7.5",
     "lru-cache": "2.0.4"
   }
 }
