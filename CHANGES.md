@@ -1,5 +1,10 @@
 # node-ldapauth Changelog
 
+## 2.2.3 (not yet released)
+
+(nothing yet)
+
+
 ## 2.2.2
 
 - [issue #5] update to bcrypt 0.7.5 (0.7.3 fixes potential mem issues)
