@@ -1,5 +1,10 @@
 # node-ldapauth Changelog
 
+## 2.2.5 (not yet released)
+
+(nothing yet)
+
+
 ## 2.2.4
 
 - [pull #12] Add `tlsOptions`, `timeout` and `connectTimeout` options in `LdapAuth`
