@@ -2,7 +2,7 @@
 
 ## 2.2.3 (not yet released)
 
-(nothing yet)
+- [pull #11] Update to latest ldapjs (v0.6.3).
 
 
 ## 2.2.2
