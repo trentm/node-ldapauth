@@ -27,7 +27,7 @@ MIT. See "LICENSE" file.
 
 # `LdapAuth` Config Options
 
-[Use the source Luke](https://github.com/trentm/node-ldapauth/blob/master/lib/ldapauth.js#L25-45)
+[Use the source Luke](https://github.com/trentm/node-ldapauth/blob/master/lib/ldapauth.js#L25-53)
 
 
 # express/connect basicAuth example
