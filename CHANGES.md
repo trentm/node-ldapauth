@@ -1,6 +1,6 @@
 # node-ldapauth Changelog
 
-## 2.2.4 (not yet released)
+## 2.2.4
 
 - [pull #12] Add `tlsOptions`, `timeout` and `connectTimeout` options in `LdapAuth`
   constructor (by github.com/vesse).
