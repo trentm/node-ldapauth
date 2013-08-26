@@ -2,12 +2,12 @@
 
 ## 2.2.4 (not yet released)
 
-(nothing yet)
-
+- [pull #12] Add `tlsOptions`, `timeout` and `connectTimeout` options in `LdapAuth`
+  constructor (by github.com/vesse).
 
 ## 2.2.3
 
-- [pull #11] Update to latest ldapjs (v0.6.3).
+- [pull #11] Update to latest ldapjs, v0.6.3 (by github.com/Esya).
 
 
 ## 2.2.2
