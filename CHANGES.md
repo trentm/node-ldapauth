@@ -1,8 +1,8 @@
 # node-ldapauth Changelog
 
-## 2.2.5 (not yet released)
+## 2.3.0 (not yet released)
 
-(nothing yet)
+- 4-space code indents. Should be no functional change.
 
 
 ## 2.2.4
