@@ -2,6 +2,8 @@
 
 ## 2.3.0 (not yet released)
 
+- [pull #19] Update deps for node 0.12 support (by https://github.com/ricardohbin).
+
 - Rewrite ldapjs connection handling. We now do retries. We now bind
   up front. The connect/bind check to verify a found user's password
   (in `.authenticate()`) creates a new connection each time. A significant
