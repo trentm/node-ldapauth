@@ -13,6 +13,7 @@ JSSTYLE_FILES := $(shell find lib -name *.js)
 #---- Targets
 
 all:
+	npm install
 
 .PHONY: cutarelease
 cutarelease:
