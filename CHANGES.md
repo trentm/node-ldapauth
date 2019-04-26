@@ -1,6 +1,6 @@
 # node-ldapauth Changelog
 
-## 2.3.0 (not yet released)
+## 2.3.0
 
 - [pull #19] Update deps for node 0.12 support (by https://github.com/ricardohbin).
 
