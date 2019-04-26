@@ -1,5 +1,10 @@
 # node-ldapauth Changelog
 
+## not yet released
+
+(nothing yet)
+
+
 ## 2.3.0
 
 - [pull #19] Update deps for node 0.12 support (by https://github.com/ricardohbin).
@@ -12,7 +17,7 @@
 
         var LdapAuth = require('ldapauth');
         var auth = new LdapAuth({url: 'ldaps://ldap.example.com:663', ...});
- 
+
         // If you want to be lazier you can skip waiting for 'connect'. :)
         // It just means that a quick `.authenticate()` call will likely fail
         // while the LDAP connect and bind is still being done.
