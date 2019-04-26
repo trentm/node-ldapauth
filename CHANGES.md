@@ -5,6 +5,13 @@
 (nothing yet)
 
 
+## 2.3.1
+
+- [#29] Treat "UnwillingToPerformError" (LDAP error code 53) the same as
+  "InvalidCredentialsError" as a failure that should stop connection retries.
+  (By github.com/melloc).
+
+
 ## 2.3.0
 
 - [pull #19] Update deps for node 0.12 support (by https://github.com/ricardohbin).
