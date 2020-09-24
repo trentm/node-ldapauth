@@ -1,3 +1,9 @@
+**Note: This repo is unmaintained and has been for a while. If you are
+interested in taking over this repo, then please let me know (trentm at
+google's email thing).**
+
+* * *
+
 A simple node.js lib to authenticate against an LDAP server.
 
 
